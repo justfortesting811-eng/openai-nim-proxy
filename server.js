@@ -29,6 +29,7 @@ const MODEL_MAPPING = {
   'deepseek-v3.1': 'deepseek-ai/deepseek-v3.1',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
+  'mistral-large': 'mistralai/mistral-large-3-675b-instruct-2512',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
 };
 
